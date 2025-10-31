@@ -1,0 +1,9 @@
+KB-Article: PRN-002
+Title: How to Add a Network Printer (Windows)
+
+1.  **Connect to Network:** Ensure your laptop is connected to the corporate Wi-Fi ("UST-Corporate-WIFI") or an Ethernet cable.
+2.  **Find Printer:** Go to Start > Settings > Devices > Printers & Scanners.
+3.  **Add Printer:** Click "Add a printer or scanner". The system will search for available network printers.
+4.  **Select Printer:** Select the printer for your floor (e.g., "FLOOR-10_PRINTER_A").
+5.  **Add Device:** Click "Add device". The drivers should install automatically.
+6.  **Troubleshooting:** If the printer does not appear, restart your computer and try again. If it fails, the printer's driver may need a manual update; please contact the IT Help Desk.

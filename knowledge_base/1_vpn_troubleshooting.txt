@@ -1,0 +1,8 @@
+KB-Article: VPN-001
+Title: How to Troubleshoot VPN Connection Issues
+
+1.  **Check Internet Connection:** The most common issue is a weak or disconnected internet connection. Ensure you are connected to Wi-Fi or Ethernet.
+2.  **Restart the VPN Client:** Close the VPN application (e.g., Cisco AnyConnect, GlobalProtect) completely and restart it.
+3.  **Check for Updates:** Ensure your VPN client is updated to the latest version from the Software Center.
+4.  **Firewall Settings:** Your computer's firewall might be blocking the connection. Check your firewall settings to ensure the VPN client is allowed.
+5.  **Escalation:** If steps 1-4 fail, please file a Level 2 support ticket with the IT Help Desk. Do not attempt to re-install the software.

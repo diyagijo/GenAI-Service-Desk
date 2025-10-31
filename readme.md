@@ -10,7 +10,7 @@ It automates a Level 1 IT Help Desk by answering employee questions using a trus
 
 ### 💡 The Business Problem (The "Why")
 
-A massive part of UST's business is **IT Services & BPO (Business Process Outsourcing)**. They run the help desks for Fortune 500 companies. This process is expensive, time-consuming, and hard to scale.
+A massive part of the global IT services industry is BPO (Business Process Outsourcing). Top-tier service providers run the help desks for Fortune 500 companies, a process which is expensive, time-consuming, and hard to scale.
 
 A simple "toy" chatbot is not the solution, as it can:
 1.  **Hallucinate:** Make up answers and confuse employees.
@@ -84,4 +84,5 @@ The bot correctly refuses to answer an out-of-scope question, proving its trustw
     streamlit run app.py
 
     ```
+
 

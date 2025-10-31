@@ -1,6 +1,6 @@
 # 🤖 Gen AI-Powered IT Service Desk Agent (RAG)
 
-This is a professional-grade, retrieval-augmented generation (RAG) system built to solve a core business problem for IT service providers like **UST Global**.
+This is a professional-grade, retrieval-augmented generation (RAG) system built to solve a core business problem for IT service providers.
 
 It automates a Level 1 IT Help Desk by answering employee questions using a trusted, private knowledge base. This reduces ticket volume, prevents AI "hallucinations," and ensures data privacy.
 
@@ -37,11 +37,11 @@ This is an "industrial-strength" AI application, not just a model. It is an end-
 
 #### 1. The "Correct Answer"
 The bot correctly retrieves the VPN troubleshooting guide and cites its source.
-![Chatbot giving a correct, cited answer for a VPN question](https://main_dash.png)
+![Chatbot giving a correct, cited answer for a VPN question](main_dash.png)
 
 #### 2. The "Safe Answer" (Anti-Hallucination)
 The bot correctly refuses to answer an out-of-scope question, proving its trustworthiness.
-![Chatbot safely refusing to answer an out-of-scope question](https://dashboard.png)
+![Chatbot safely refusing to answer an out-of-scope question](dashboard.png)
 
 ---
 
@@ -84,3 +84,4 @@ The bot correctly refuses to answer an out-of-scope question, proving its trustw
     streamlit run app.py
 
     ```
+
